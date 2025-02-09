@@ -1,0 +1,27 @@
+* {
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+a {
+    color: white;
+    font-weight: bold;
+    padding: 1px 6px;
+    border: 1px outset buttonborder;
+    border-radius: 3px;
+}
+
+#pastiera {
+    background-color: red;
+}
+
+#pizza {
+    background-color: blue;
+}
+
+#tiramisu{
+    background-color: darkgreen;
+}
+
+.back{
+    background-color: black;
+}
